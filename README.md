@@ -1,4 +1,4 @@
-# Arduino-based-automatic-robot-for-agriculture Sector 
+# Arduino based automatic robot for agriculture Sector 
 The Arduino-based agriculture robot is a project designed to automate various tasks involved in farming, particularly watering, manure distribution, and obstacle avoidance. 
 
 The objective of this research work was to develop a low-cost agricultural robot to spray water and pesticides in agriculture fields as well as for general crop monitoring. The prototype system is a four-wheeled robot that consists of a spraying mechanism.Tests conducted on the agricultural robot prototype showed that it could perform as required under real-world usage scenarios. While the productivity of the robot in terms of crop coverage is slightly lower than a human worker, the labour cost savings afforded by the agricultural robot prototype is much greater as it functions completely in an autonomous mode and only requires the operator’s control to place the robot at the start of the crop path.
